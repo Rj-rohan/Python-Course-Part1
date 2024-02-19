@@ -1,1 +1,0 @@
-Python Full course notes are available on this Repository
